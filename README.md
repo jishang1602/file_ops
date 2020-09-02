@@ -26,3 +26,6 @@
 * Average - 11.750000 and MAX - 15
 
 * also creates the answer-hw3.txt
+
+* To view the the file answer-hw3.txt .please use the below command
+* cat answer-hw3.txt
